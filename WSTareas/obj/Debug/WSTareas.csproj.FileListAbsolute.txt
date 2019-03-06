@@ -1,0 +1,11 @@
+C:\Users\NicolasPC\source\repos\WSTareas\WSTareas\bin\WSTareas.dll.config
+C:\Users\NicolasPC\source\repos\WSTareas\WSTareas\bin\WSTareas.dll
+C:\Users\NicolasPC\source\repos\WSTareas\WSTareas\bin\WSTareas.pdb
+C:\Users\NicolasPC\source\repos\WSTareas\WSTareas\obj\Debug\WSTareas.csproj.CoreCompileInputs.cache
+C:\Users\NicolasPC\source\repos\WSTareas\WSTareas\obj\Debug\WSTareas.dll
+C:\Users\NicolasPC\source\repos\WSTareas\WSTareas\obj\Debug\WSTareas.pdb
+C:\Users\NicolasPC\source\repos\WSTareas\WSTareas\bin\EntityFramework.dll
+C:\Users\NicolasPC\source\repos\WSTareas\WSTareas\bin\EntityFramework.SqlServer.dll
+C:\Users\NicolasPC\source\repos\WSTareas\WSTareas\bin\EntityFramework.xml
+C:\Users\NicolasPC\source\repos\WSTareas\WSTareas\bin\EntityFramework.SqlServer.xml
+C:\Users\NicolasPC\source\repos\WSTareas\WSTareas\obj\Debug\WSTareas.csproj.CopyComplete
